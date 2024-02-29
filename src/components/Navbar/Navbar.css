@@ -1,0 +1,50 @@
+/* .section1{
+    font-family: 'Poppins-Regular';
+}
+.section2{
+    font-family: 'Poppins-SemiBold';
+} */
+.navbarMainContainer {
+  font-family: "Poppins-Regular";
+  /* background-color: orange; */
+}
+.navbarContainer {
+  display: flex;
+  align-items: center;
+  width: 85vw;
+  margin: 50px auto;
+  /* background-color: red; */
+}
+.navbarSection1Text {
+  font-family: "Poppins-SemiBold";
+  font-size: 50px;
+  font-weight: 500;
+}
+.navbarSection2ListContainer {
+  display: flex;
+  list-style: none;
+}
+
+.navbarListItem {
+  color: black;
+  text-decoration: none;
+  margin: 0 3vw;
+  font-size: 30px;
+  font-weight: 400;
+}
+
+.navbarIconStyling {
+  height: 30px;
+  width: 30px;
+  margin: 0 2vw;
+}
+.navbarSection1TextContainer {
+  width: 16vw;
+  /* background-color: aqua; */
+}
+.navbarSection1Text {
+  margin-left: 1vw;
+}
+.navbarSection2 {
+  /* background-color: yellowgreen; */
+}

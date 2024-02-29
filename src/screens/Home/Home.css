@@ -1,0 +1,462 @@
+.homeMainContainer {
+  font-family: "Poppins-Regular";
+}
+.homeSection1 {
+  display: flex;
+  width: 90vw;
+  margin: 0 auto;
+}
+.homeSection1a {
+  padding: 30px;
+}
+.homeSectionImgStyling {
+  width: 1600px;
+  height: 1280px;
+  position: absolute;
+  top: 0;
+  left: 13vw;
+}
+.homeSection1aText1 {
+  font-family: "Poppins-SemiBold";
+  font-size: 100px;
+  font-weight: 500;
+  width: 44vw;
+}
+.homeSection1aText2 {
+  font-size: 30px;
+  font-weight: 300;
+  margin-top: 50px;
+  width: 48vw;
+}
+.homeSection1aText2 {
+}
+.homeSection1BtnContainer {
+  margin-top: 50px;
+}
+.homeSection1Btn {
+  background-color: #b493fe;
+  border: none;
+  padding: 16px;
+  color: #ffffff;
+  border-radius: 10px;
+  font-size: 40px;
+  font-weight: 600;
+}
+.homeSection1b {
+  background-color: magenta;
+}
+
+.homeSection2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 150px;
+}
+
+.homeSection2IconContainer {
+  background-color: #b493fe;
+  height: 150px;
+  width: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+}
+
+.homeSection2IconStyling {
+  height: 80px;
+  width: 65px;
+}
+
+.homeSection2TextContainer {
+  padding: 2vw;
+}
+.homeSection2Text1 {
+  font-size: 40px;
+  font-weight: 700;
+}
+.homeSection2Text2 {
+  font-size: 30px;
+  font-weight: 400;
+}
+
+.homeSection3Heading {
+  text-align: center;
+  font-size: 100px;
+  font-weight: 500;
+  margin-top: 100px;
+}
+
+.homeSection3 {
+  background-color: #b493fe;
+  width: 90vw;
+  margin: 0 auto;
+  border-radius: 10px;
+  position: relative;
+  margin-top: 100px;
+}
+.homeSection3TextContainer {
+  display: flex;
+  justify-content: space-around;
+}
+.homeSection3Text {
+  font-family: "Poppins-SemiBold";
+  font-size: 160px;
+  font-weight: 700;
+  color: #ffffff;
+}
+.homeSection3ImgContainer {
+  position: absolute;
+  left: 39vw;
+  bottom: 2vw;
+  z-index: 1;
+}
+.homeSection3ImgStyling {
+  width: 980px;
+  height: 980px;
+}
+
+.homeSection4 {
+  display: flex;
+  margin-top: 100px;
+  justify-content: space-around;
+}
+.homeSection4CardContainer {
+  position: relative;
+}
+.homeSection4CardImg {
+  width: 400px;
+  height: 400px;
+}
+.homeSection4CardText {
+  position: absolute;
+  bottom: 1vw;
+  left: 5vw;
+  font-family: "Poppins-SemiBold";
+  font-size: 50px;
+  font-weight: 200;
+}
+
+.homeSection5Heading {
+  text-align: center;
+  font-size: 100px;
+  font-weight: 500;
+  margin-top: 100px;
+}
+.homeSection5 {
+  display: flex;
+  margin-top: 100px;
+  justify-content: space-around;
+}
+.homeSection5CardContainer {
+  display: flex;
+  flex-direction: column;
+}
+.homeSection5CardImg {
+  width: 400px;
+  height: 400px;
+}
+.homeSection5CardText {
+  font-family: "Poppins-SemiBold";
+  font-size: 40px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.homeSection6Heading {
+  text-align: center;
+  font-size: 100px;
+  font-weight: 500;
+  margin-top: 100px;
+}
+.homeSection6 {
+  display: flex;
+  justify-content: space-around;
+}
+.homeSection6CardContainer {
+  display: flex;
+  flex-direction: column;
+}
+.homeSection6CardImgContainer {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  height: 30vw;
+  width: 30vw;
+  overflow: hidden;
+}
+.homeSection6CardImg {
+  width: 40vw;
+  height: 40vw;
+}
+.homeSection6CardText {
+  font-family: "Poppins-SemiBold";
+  font-size: 40px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.homeSection7Heading {
+  text-align: center;
+  font-size: 100px;
+  font-weight: 500;
+  margin-top: 100px;
+}
+
+.homeSection7Text {
+  text-align: center;
+  font-size: 40px;
+  font-weight: 400;
+  color: #696969;
+  width: 60vw;
+  margin: 0 auto;
+}
+
+.homeSection7Container {
+  margin-top: 100px;
+}
+.homeSection7MainContainer {
+  border-radius: 20px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  /* background-color: orange; */
+  background-color: #d7d7d7;
+  width: 70vw;
+  margin: 0 auto;
+  justify-content: flex-end;
+  height: 30vw;
+  padding: 2vw;
+}
+.homeSection7aImgStyling {
+  position: absolute;
+  width: 50vw;
+  left: -2vw;
+  height: 50vw;
+  top: -10vw;
+}
+.homeSection7b {
+  /* background-color: red; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.homeSection7bHeadingContainer {
+}
+.homeSection7bHeadingText {
+  font-size: 50px;
+  font-weight: 500;
+}
+.homeSection7bTimeContainer {
+}
+.homeSection7bTimeText {
+  font-size: 88px;
+  font-weight: 500;
+}
+.homeSection7bTimeFormatContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.homeSection7bTimeFormatText {
+  font-size: 40px;
+  font-weight: 400;
+  margin: 0 2vw;
+}
+.homeSection7bBtnContainer {
+}
+.homeSection7bBtn {
+  border: none;
+  background-color: #000000;
+  color: #ffffff;
+  font-size: 40px;
+  font-weight: 600;
+  border-radius: 10px;
+  padding: 1vw;
+}
+
+.homeSection8Container {
+  background-color: #d7d7d780;
+  width: 80vw;
+  margin: 0 auto;
+  margin-top: 100px;
+  border-radius: 20px;
+}
+.homeSection8MainContainer {
+}
+.homeSection8a {
+  display: flex;
+  width: 80vw;
+  margin: 0 auto;
+  justify-content: space-around;
+}
+.homeSection8a1 {
+  margin-top: 5vw;
+}
+.homeSection8a1Text1 {
+  font-size: 30px;
+  font-weight: 500;
+  width: 12vw;
+}
+.homeSection8a1Text2 {
+  margin-top: 1vw;
+  font-size: 15px;
+  font-weight: 400;
+  color: #696969;
+  text-align: center;
+  width: 18vw;
+}
+.homeSection8a2 {
+  display: flex;
+  align-items: center;
+  margin-top: 5vw;
+}
+.homeSection8a2CardContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 10vw;
+  width: 10vw;
+}
+.homeSection8a2CardImgStyling {
+  width: 8vw;
+  height: 8vw;
+}
+.homeSection8a2CardText {
+  font-size: 30px;
+  font-weight: 500;
+}
+
+.homeSection8bMainContainer {
+  width: 80vw;
+  margin: 0 auto;
+}
+.homeSection8bContainer {
+  display: flex;
+  margin-top: 100px;
+  justify-content: space-around;
+}
+.homeSection8CardContainer {
+  display: flex;
+  flex-direction: column;
+}
+.homeSection8CardImg {
+  width: 400px;
+  height: 400px;
+}
+.homeSection8CardText {
+  font-family: "Poppins-SemiBold";
+  font-size: 40px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.homeSection9Heading {
+  text-align: center;
+  font-size: 100px;
+  font-weight: 500;
+  margin-top: 100px;
+}
+.homeSection9CardMainContainer {
+  display: flex;
+}
+.homeSection9CardContainer {
+  height: 30vw;
+  width: 45vw;
+  box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.1);
+  border-radius: 15px;
+  margin: 2vw;
+}
+.homeSection9CardSection1 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 10px;
+}
+.homeSection9CardSection1Img1Styling {
+  margin-top: 2vw;
+}
+.homeSection9CardSection1Img2Styling {
+  margin-top: 2vw;
+  height: 4vw;
+}
+.homeSection9CardSection2 {
+  width: 80%;
+  margin: 0px auto;
+}
+.homeSection9CardSection2Text {
+  font-size: 20px;
+  font-weight: 500;
+  margin-top: 4vw;
+}
+.homeSection9CardSection3 {
+  width: 80%;
+  margin: 0 auto;
+}
+.homeSection9CardSection3Text {
+  font-size: 35px;
+  font-weight: 500;
+  margin-top: 4vw;
+}
+.homeSection9CardSection4 {
+  width: 80%;
+  margin: 0 auto;
+}
+.homeSection9CardSection4Text {
+  font-size: 20px;
+  font-weight: 300;
+}
+
+.homeSection10MainContainer {
+  background-color: #B493FE;
+  padding: 2vw;
+}
+.homeSection10Section1 {
+}
+.homeSection10Section1Text {
+  width: 60%;
+  margin: 0 auto;
+  font-size: 70px;
+  font-weight: 500;
+  color: #ffffff;
+}
+.homeSection10Section2 {
+}
+.homeSection10Section2Text {
+  font-size: 25px;
+  font-weight: 500;
+  color: #ffffff;
+  text-align: center;
+  width: 60%;
+  margin: 0 auto;
+}
+.homeSection10Section3 {
+  background-color: #ffffff;
+  width: 70vw;
+  margin: 0 auto;
+  padding: 1vw;
+  border-radius: 10px;  
+  margin-top: 2vw;
+  margin-bottom: 2vw;
+
+}
+.homeSection10Section3Card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 2vw;
+  
+}
+.homeSection10Section3CardText {
+  font-size: 35px;
+  font-weight: 500;
+}
+.homeSection10Section3CardBtn {
+  background-color: #b493fe;
+  border: none;
+  padding: 16px;
+  color: #ffffff;
+  border-radius: 10px;
+  font-size: 40px;
+  font-weight: 600;
+}
